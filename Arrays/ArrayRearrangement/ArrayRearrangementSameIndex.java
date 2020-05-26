@@ -1,3 +1,4 @@
+//time comp=O(n)
 package ArrayRearrangement;
 
 import java.util.Arrays;
